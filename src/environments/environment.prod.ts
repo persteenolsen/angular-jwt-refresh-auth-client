@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'http://localhost:4000'
+    apiUrl: 'https://dotnet.jwt.refresh.auth.api.persteenolsen.com'
 };
