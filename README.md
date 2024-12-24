@@ -8,7 +8,7 @@ Working towards a .NET 8 Web API
 
 - 05-05-2024
 
-# Try the .NET 8 Web API by fork or download from GitHub
+# Try the .NET 8 Web API
 
 - [`The Web API at GitHub`](https://github.com/persteenolsen/dotnet-8-jwt-refresh-auth-api) - The .NET 8 REST API using JWT and Refresh Tokens for Authentiction
 
