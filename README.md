@@ -6,7 +6,7 @@ Working towards a .NET 8 Web API
 
 # Last updated
 
-- 05-05-2024
+- 02-09-2025
 
 # Try the .NET 8 Web API
 
